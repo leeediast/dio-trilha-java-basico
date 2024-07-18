@@ -6,5 +6,6 @@
     ],
     "cSpell.words": [
         "Conta"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
